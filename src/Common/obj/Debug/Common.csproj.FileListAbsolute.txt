@@ -1,0 +1,5 @@
+H:\Code\MVC4-WebAPI\src\Common\bin\Debug\Common.dll
+H:\Code\MVC4-WebAPI\src\Common\bin\Debug\Common.pdb
+H:\Code\MVC4-WebAPI\src\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+H:\Code\MVC4-WebAPI\src\Common\obj\Debug\Common.dll
+H:\Code\MVC4-WebAPI\src\Common\obj\Debug\Common.pdb

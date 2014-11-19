@@ -1,0 +1,16 @@
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Data.SqlServer.dll.config
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Data.SqlServer.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Data.SqlServer.pdb
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Common.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Data.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\FluentNHibernate.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Iesi.Collections.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\NHibernate.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Common.pdb
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Data.pdb
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\FluentNHibernate.xml
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\Iesi.Collections.xml
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\bin\Debug\NHibernate.xml
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\obj\Debug\Data.SqlServer.csprojResolveAssemblyReference.cache
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\obj\Debug\Data.SqlServer.dll
+H:\Code\MVC4-WebAPI\src\Data.SqlServer\obj\Debug\Data.SqlServer.pdb

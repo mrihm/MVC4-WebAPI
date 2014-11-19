@@ -1,0 +1,9 @@
+H:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dacpac
+H:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dll
+H:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.pdb
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\Model.xml
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\refactor.xml
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\postdeploy.sql
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\predeploy.sql
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.dll
+H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.pdb

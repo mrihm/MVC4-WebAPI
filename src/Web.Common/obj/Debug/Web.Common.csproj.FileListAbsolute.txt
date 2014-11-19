@@ -1,0 +1,13 @@
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Web.Common.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Web.Common.pdb
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Iesi.Collections.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\log4net.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\NHibernate.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Ninject.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Iesi.Collections.xml
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\log4net.xml
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\NHibernate.xml
+H:\Code\MVC4-WebAPI\src\Web.Common\bin\Debug\Ninject.xml
+H:\Code\MVC4-WebAPI\src\Web.Common\obj\Debug\Web.Common.csprojResolveAssemblyReference.cache
+H:\Code\MVC4-WebAPI\src\Web.Common\obj\Debug\Web.Common.dll
+H:\Code\MVC4-WebAPI\src\Web.Common\obj\Debug\Web.Common.pdb

@@ -7,3 +7,12 @@ H:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\nunit.framework.xml
 H:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.csprojResolveAssemblyReference.cache
 H:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.dll
 H:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.pdb
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\Common.Tests.dll
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\Common.Tests.pdb
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\Common.dll
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\nunit.framework.dll
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\Common.pdb
+G:\Code\MVC4-WebAPI\src\Common.Tests\bin\Debug\nunit.framework.xml
+G:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.csprojResolveAssemblyReference.cache
+G:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.dll
+G:\Code\MVC4-WebAPI\src\Common.Tests\obj\Debug\Common.Tests.pdb

@@ -3,3 +3,17 @@ H:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dll
 H:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.pdb
 H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.dll
 H:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.pdb
+G:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dacpac
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\Model.xml
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\refactor.xml
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\postdeploy.sql
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\predeploy.sql
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.dll
+G:\Code\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.pdb
+G:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dll
+G:\Code\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.pdb
+G:\Coding\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dacpac
+G:\Coding\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.dll
+G:\Coding\MVC4-WebAPI\src\ServiceDb\bin\Debug\ServiceDb.pdb
+G:\Coding\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.dll
+G:\Coding\MVC4-WebAPI\src\ServiceDb\obj\Debug\ServiceDb.pdb

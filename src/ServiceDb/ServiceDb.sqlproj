@@ -64,8 +64,8 @@
     <Folder Include="dbo\Views" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Scripts\ReferenceData.sql" />
-    <Build Include="dbo\Scripts\TestData.sql" />
+    <None Include="dbo\Scripts\ReferenceData.sql" />
+    <None Include="dbo\Scripts\TestData.sql" />
     <Build Include="dbo\Stored Procedures\aspnet_AnyDataInTables.sql" />
     <Build Include="dbo\Stored Procedures\aspnet_Applications_CreateApplication.sql" />
     <Build Include="dbo\Stored Procedures\aspnet_CheckSchemaVersion.sql" />

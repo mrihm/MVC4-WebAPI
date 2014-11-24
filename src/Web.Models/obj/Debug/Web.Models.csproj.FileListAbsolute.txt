@@ -3,3 +3,8 @@ H:\Code\MVC4-WebAPI\src\Web.Models\bin\Debug\Web.Models.pdb
 H:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.csprojResolveAssemblyReference.cache
 H:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.dll
 H:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.pdb
+G:\Code\MVC4-WebAPI\src\Web.Models\bin\Debug\Web.Models.dll
+G:\Code\MVC4-WebAPI\src\Web.Models\bin\Debug\Web.Models.pdb
+G:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.csprojResolveAssemblyReference.cache
+G:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.dll
+G:\Code\MVC4-WebAPI\src\Web.Models\obj\Debug\Web.Models.pdb

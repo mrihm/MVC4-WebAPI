@@ -50,3 +50,9 @@ G:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Newtonsoft.Json.xml
 G:\Code\MVC4-WebAPI\src\Web.UI.Tests\obj\Debug\Web.UI.Tests.csprojResolveAssemblyReference.cache
 G:\Code\MVC4-WebAPI\src\Web.UI.Tests\obj\Debug\Web.UI.Tests.dll
 G:\Code\MVC4-WebAPI\src\Web.UI.Tests\obj\Debug\Web.UI.Tests.pdb
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Web.UI.Tests.dll.config
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Ninject.Web.Common.dll
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Ninject.dll
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\WebActivatorEx.dll
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Ninject.Web.Common.xml
+H:\Code\MVC4-WebAPI\src\Web.UI.Tests\bin\Debug\Ninject.xml
